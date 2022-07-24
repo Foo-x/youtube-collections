@@ -1,0 +1,17 @@
+{
+  "name": "@youtube-collections/api",
+  "version": "0.1.0",
+  "description": "The API for youtube-collections.",
+  "private": "true",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foo-x/youtube-collections.git"
+  },
+  "author": "Foo-x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Foo-x/youtube-collections/issues"
+  },
+  "homepage": "https://github.com/Foo-x/youtube-collections#readme"
+}

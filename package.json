@@ -1,0 +1,20 @@
+{
+  "name": "youtube-collections",
+  "version": "0.1.0",
+  "description": "An application that manages channels subscribed on YouTube.",
+  "private": "true",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foo-x/youtube-collections.git"
+  },
+  "author": "Foo-x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Foo-x/youtube-collections/issues"
+  },
+  "homepage": "https://github.com/Foo-x/youtube-collections#readme",
+  "workspaces": [
+    "packages/*"
+  ]
+}
