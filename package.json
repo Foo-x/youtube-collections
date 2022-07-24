@@ -16,5 +16,9 @@
   "homepage": "https://github.com/Foo-x/youtube-collections#readme",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "esbuild": "^0.14.49",
+    "typescript": "^4.7.4"
+  }
 }
